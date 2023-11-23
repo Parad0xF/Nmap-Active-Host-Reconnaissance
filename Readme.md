@@ -28,12 +28,12 @@
 ## 🚀 Quick Start
 Clone the repository and navigate to the project of your interest:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name/project-folder 
+git clone https://github.com/Parad0xF/Nmap-Active-Reconnaissance.git
+cd Nmap-Active-Reconnaissance/
 ```
 ## 🛠️ Technologies & Tools
-- **Python, TensorFlow, PyTorch** for deep learning projects.
-- Various programming languages and frameworks for coding challenges.
+- **Kali** for penetration testing projects.
+- Various programming languages and frameworks for hacking challenges.
 
 ## 📚 Learning Resources
 - Access in-depth tutorials and documentation within each project.
