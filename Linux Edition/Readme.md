@@ -68,69 +68,32 @@ This repository provides a guide to install `nmap`, a network scanning tool, on 
 
 ## Prerequisites
 
-- Windows operating system
-- PowerShell with administrative rights
+- Debian/Ubuntu operating system
+- Bash/Terminal with administrative rights
 - Internet connection
 
 ## Installation Steps
 
-### Step 1: Download the Nmap Installer
+## Installation Steps for Linux
 
-1. **Open PowerShell as Administrator**:
-   - Right-click on the PowerShell icon.
-   - Select "Run as administrator".
+### Step 1: Install Nmap
 
-2. **Download the Installer**:
-   - Execute the command below in PowerShell to download the Nmap installer. 
-   - Replace `URL_TO_NMAP_INSTALLER` with the download URL from the [official Nmap website](https://nmap.org/download.html).
+- Nmap can usually be installed directly from your distribution's package manager. For most Linux distributions, you can use one of the following commands:
 
-    ```powershell
-    Invoke-WebRequest -Uri URL_TO_NMAP_INSTALLER -OutFile "nmap-setup.exe"
+#### On Debian/Ubuntu:
+- Execute the command
+    ```bash
+    sudo apt-get update
+    sudo apt-get install nmap
     ```
-
-    For example:
-
-    ```powershell
-    Invoke-WebRequest -Uri "https://nmap.org/dist/nmap-7.91-setup.exe" -OutFile "nmap-setup.exe"
-    ```
-
-### Step 2: Run the Installer
-
-- Run the downloaded installer using the command:
-
-  ```powershell
-  Start-Process -FilePath ".\nmap-setup.exe"
-### Step 3: Follow the Installation Prompts
-
-#### Install Nmap:
-- Follow the on-screen instructions in the setup wizard.
-- Choose the components to install and the installation directory.
-
-#### Complete the Setup:
-- Finish the installation process by following the prompts.
-
-### Step 4: Verify Installation
-
-- Confirm Nmap installation by opening a new PowerShell or Command Prompt window and running:
-  ```powershell
-  nmap -v
-This should display the Nmap version, indicating successful installation.
-## Running the PowerShell Script
-
-To run the PowerShell script, follow these steps:
-
-### Open PowerShell:
-- Open PowerShell on your Windows system.
-
-### Copy the PowerShell Script:
-- Copy the following PowerShell script into a file, for example, `Run-Nmap.ps1`.
 
 ### Run the Script:
 - Navigate to the directory containing the script in PowerShell.
 - Execute the script:
 
-    ```powershell
-    .\Run-Nmap.ps1
+    ```sh
+    sh start-nmap-test.sh
+    ```
 ### Notes
 - Always download Nmap from its official website to ensure security and get the latest version.
 - The download URL may vary with different Nmap versions; refer to the official website for the most recent link.
