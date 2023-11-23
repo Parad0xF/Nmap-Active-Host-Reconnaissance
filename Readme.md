@@ -6,8 +6,8 @@
 
 
 
-<h1 align="center">👋 Hi, I'm Parad0x</h1>
-<h3 align="center">🔥 A Passionate Cyber-Security Developer from Moldova 🔥</h3>
+<h2 align="center">👋 Hi, I'm Parad0x</h1>
+<h3 align="center">🔥 A Passionate Cyber-Security Professional and Penetration tools Developer 🔥</h3>
 
 <p align="center">
     <a href="https://linkedin.com/in/radu-enachi" target="_blank">
