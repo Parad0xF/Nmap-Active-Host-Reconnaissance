@@ -13,7 +13,7 @@
     </a>
 </p>
 
-<h1 align="center">🌐 Nmap Reconnaissance & Host Discovery Repository 🌐</h1>
+<h1 align="center">🌐 Nmap Host Discovery Repository 🌐</h1>
 <p align="center">
     <i>Dive into the world of network security with this repository, featuring comprehensive guides and practical applications of Nmap for reconnaissance and host discovery. Explore various scanning techniques including ARP, UDP, ECHO, Ping Sweep, ICMP Timestamp, ICMP Mask, and IP scans, perfecting your skills in cyber-security and network analysis.</i>
 </p>
