@@ -1,7 +1,7 @@
 <p align=”center”>
-
-<img width=”200" height=”200" src=https://github.com/Parad0xF/Nmap-Active-Reconnaissance/assets/34218173/4d1a831c-7d46-4bc7-891b-e28aaaf72a4f" alt=”my banner”>
-
+    <a>
+        <img src=https://github.com/Parad0xF/Nmap-Active-Reconnaissance/assets/34218173/4d1a831c-7d46-4bc7-891b-e28aaaf72a4f" alt=”my banner”>
+    <a/>
 </p>
 
 
