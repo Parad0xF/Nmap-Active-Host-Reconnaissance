@@ -62,7 +62,7 @@ cd Nmap-Active-Reconnaissance/
     <b>Let's explore the limitless possibilities of technology together!</b>
 </p>
 
-# Nmap Installation Guide for Windows
+# Nmap Installation Guide for Linux
 
 This repository provides a guide to install `nmap`, a network scanning tool, on Windows using PowerShell.
 
@@ -71,8 +71,6 @@ This repository provides a guide to install `nmap`, a network scanning tool, on 
 - Debian/Ubuntu operating system
 - Bash/Terminal with administrative rights
 - Internet connection
-
-## Installation Steps
 
 ## Installation Steps for Linux
 
