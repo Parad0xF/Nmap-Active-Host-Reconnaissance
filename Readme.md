@@ -29,9 +29,9 @@
 
 
 ## 🌟 What's Inside?
-- Deep learning projects demonstrating cutting-edge AI techniques.
-- Engaging coding challenges to sharpen your programming skills.
-- Comprehensive guides and walkthroughs for each project and challenge.
+- In-depth exploration of Nmap for network reconnaissance and host discovery.
+- Practical guides on various scanning techniques: ARP, UDP, ECHO, Ping Sweep, ICMP Timestamp, ICMP Mask, and IP scans.
+- Detailed walkthroughs and examples for each scanning method to enhance your network analysis skills.
 
 ## 🚀 Quick Start
 Clone the repository and navigate to the project of your interest:
