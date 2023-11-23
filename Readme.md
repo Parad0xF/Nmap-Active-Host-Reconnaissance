@@ -17,7 +17,7 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Parad0x's YouTube" height="30" width="40"/>
     </a>
     <a href="http://raensec.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/external-link.svg" alt="Parad0x's Website" height="30" width="40"/>
+        <img src="https://github.com/Parad0xF/Nmap-Active-Reconnaissance/assets/34218173/3b0f1874-20b3-48a9-be19-19ac5967ec59" alt="Parad0x's Website" height="30" width="40"/>
     </a>
 </p>
 
