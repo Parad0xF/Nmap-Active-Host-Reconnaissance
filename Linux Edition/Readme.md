@@ -105,7 +105,3 @@ This guide is released under the [MIT License](LICENSE).
 ---
 
 Feel free to contribute to this guide by submitting issues or pull requests.
-
-This README.md is comprehensive, guiding the user through every step of the installation process for `nmap` using PowerShell on Windows. It utilizes markdown syntax for clear formatting, making it easy to read and follow.
-
-This markdown text is ready for use in a README.md file, providing a clear and structured guide for installing `nmap` on Windows using PowerShell. The formatting enhances readability and user navigation through the document.
