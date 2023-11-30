@@ -1,5 +1,5 @@
 <p align=”center”>
-    <a>
+    <a href="https://raensec.com/">
         <img width=”200" height=”200"  src="https://github.com/Parad0xF/Nmap-Active-Port-Reconnaissance/assets/34218173/299d4867-b0c7-4962-b38b-0e65116a7416" alt=”Scanning Types”>
     <a/>
 </p>
@@ -13,7 +13,7 @@
 ## 🌟 What's Inside?
 - Practical guides on various scanning techniques: ARP, UDP, ECHO, Ping Sweep, ICMP Timestamp, ICMP Mask, and IP scans.
 <p align=”center”>
-    <a>
+    <a href="https://www.youtube.com/channel/UC9jbwalXYXFl2kdZsUNY0Sw/about">
         <img width=”200" height=”200"  src="https://github.com/Parad0xF/Penetration-Testing-Resource/assets/34218173/01a6f8d6-292e-4c06-8408-7c778edf4df7">
     <a/>
 </p>
