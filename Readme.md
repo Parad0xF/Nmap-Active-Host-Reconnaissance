@@ -4,6 +4,11 @@
     <a/>
 </p>
 
+---
+<p align="center">
+    <b>Let's explore the limitless possibilities of technology together!</b>
+</p>
+---
 
 ## 🌟 What's Inside?
 - Practical guides on various scanning techniques: ARP, UDP, ECHO, Ping Sweep, ICMP Timestamp, ICMP Mask, and IP scans.
@@ -19,22 +24,10 @@ Clone the repository and navigate to the project of your interest:
 git clone https://github.com/Parad0xF/Nmap-Active-Reconnaissance.git
 cd Nmap-Active-Reconnaissance/
 ```
-## 🛠️ Technologies & Tools
-- **Kali** for penetration testing projects.
-- Various programming languages and frameworks for hacking challenges.
-
-## 📚 Learning Resources
-- Access in-depth tutorials and documentation within each project.
-- Watch video explanations and coding sessions on my [YouTube channel](https://www.youtube.com/channel/UC9jbwalXYXFl2kdZsUNY0Sw).
-
-## 🤝 How to Contribute
-- Fork the repository and create your feature branch.
-- Submit pull requests with your new features or fixes.
-- Share your ideas and feedback in the [Issues](https://github.com/your-username/your-repo-name/issues) section.
-
 ## 📫 Connect with Me
 - LinkedIn: [Radu Enachi](https://linkedin.com/in/radu-enachi)
 - YouTube: [Parad0x's Channel](https://www.youtube.com/channel/UC9jbwalXYXFl2kdZsUNY0Sw)
+- Personal Web [Radu's Site](https://raensec.com)
 
 ---
 
