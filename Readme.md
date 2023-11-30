@@ -1,37 +1,17 @@
 <p align=”center”>
     <a>
-        <img width=”200" height=”200" src=https://github.com/Parad0xF/Nmap-Active-Reconnaissance/assets/34218173/4d1a831c-7d46-4bc7-891b-e28aaaf72a4f" alt=”my banner”>
+        <img width=”200" height=”200"  src="https://github.com/Parad0xF/Nmap-Active-Port-Reconnaissance/assets/34218173/299d4867-b0c7-4962-b38b-0e65116a7416" alt=”Scanning Types”>
     <a/>
 </p>
 
 
-
-<h2 align="center">👋 Hi, I'm Parad0x</h1>
-<h3 align="center">🔥 A Passionate Cyber-Security Professional and Penetration tools Developer 🔥</h3>
-
-<p align="center">
-    <a href="https://linkedin.com/in/radu-enachi" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radu-enachi" height="30" width="40"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UC9jbwalXYXFl2kdZsUNY0Sw" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Parad0x's YouTube" height="30" width="40"/>
-    </a>
-    <a href="http://raensec.com" target="_blank">
-        <img src="https://github.com/Parad0xF/Nmap-Active-Reconnaissance/assets/34218173/3b0f1874-20b3-48a9-be19-19ac5967ec59" alt="Parad0x's Website" height="30" width="40"/>
-    </a>
-</p>
-
-<h1 align="center">🌐 Nmap Host Discovery Repository 🌐</h1>
-<p align="center">
-    <i>Dive into the world of network security with this repository, featuring comprehensive guides and practical applications of Nmap for reconnaissance and host discovery. Explore various scanning techniques including ARP, UDP, ECHO, Ping Sweep, ICMP Timestamp, ICMP Mask, and IP scans, perfecting your skills in cyber-security and network analysis.</i>
-</p>
-
-
-
 ## 🌟 What's Inside?
-- In-depth exploration of Nmap for network reconnaissance and host discovery.
 - Practical guides on various scanning techniques: ARP, UDP, ECHO, Ping Sweep, ICMP Timestamp, ICMP Mask, and IP scans.
-- Detailed walkthroughs and examples for each scanning method to enhance your network analysis skills.
+<p align=”center”>
+    <a>
+        <img width=”200" height=”200"  src="https://github.com/Parad0xF/Penetration-Testing-Resource/assets/34218173/01a6f8d6-292e-4c06-8408-7c778edf4df7">
+    <a/>
+</p>
 
 ## 🚀 Quick Start
 Clone the repository and navigate to the project of your interest:
